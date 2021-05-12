@@ -1,3 +1,1 @@
-# react-starter  
-
-It is a skeleton of an REACT APP to build incredible dream projects.
+Starting point, to build a REACT project in a few minutes.
